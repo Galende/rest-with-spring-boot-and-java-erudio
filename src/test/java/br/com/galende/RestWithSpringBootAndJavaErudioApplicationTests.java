@@ -1,4 +1,4 @@
-package br.com.galende.restwithspringbootandjavaerudio;
+package br.com.galende;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
